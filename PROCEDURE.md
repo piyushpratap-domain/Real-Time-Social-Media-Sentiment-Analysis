@@ -520,7 +520,6 @@ else:
 
 # ------------------ Footer ------------------ #
 st.markdown("---")
-st.caption("Built with ❤️ using Streamlit | Connects to AWS Lambda + Twitter API (via snscrape)")
 
 ```
 ---
